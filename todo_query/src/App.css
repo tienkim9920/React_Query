@@ -64,3 +64,17 @@ h3{
 .pagination{
   padding: 1.2rem 0;
 }
+
+form input {
+  background: transparent;
+  border-radius: 20px;
+  color: #fff;
+  border-color: #fff;
+  outline: none;
+  padding: .6rem 1.2rem;
+  width: 12rem;
+}
+
+form {
+  padding: 1rem 0;
+}
